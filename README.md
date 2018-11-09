@@ -5,6 +5,7 @@
 #####  手机中打开 [在线预览](https://cjycc.github.io/mobile-slide)
 
 ##### 扫码预览
+![qrcode](https://github.com/lewis878/mobile-slide/blob/master/src/img/qrcode.png)
 
 
 
